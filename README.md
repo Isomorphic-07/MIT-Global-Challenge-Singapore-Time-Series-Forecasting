@@ -130,7 +130,7 @@ Designed as a foundation for further work in:
   
 ## Demonstration & Dissemination
 
-This work was **publicly demonstrated** at the **BlendED AI+X Global Meetup** in Singapore, hosted at the **:contentReference[oaicite:0]{index=0} (NUS)**.
+This work was **publicly demonstrated** at the **BlendED AI+X Global Meetup** in Singapore, hosted at the **National University of Singapore(NUS)**.
 
 The live demonstration showcased:
 - End-to-end time-series forecasting using XGBoost and Prophet  
