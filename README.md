@@ -1,5 +1,5 @@
 # Time-Series Forecasting for Financial Balance Risk
-**MIT Global Challenge — D1 Time Series Pipeline**
+**MIT Global Challenge — Time Series Pipeline**
 
 This repository implements a **production-oriented time-series forecasting pipeline** for financial balance prediction, developed as part of the **MIT Global Challenge**.
 
